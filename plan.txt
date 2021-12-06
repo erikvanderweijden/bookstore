@@ -1,0 +1,11 @@
+We gaan een boekwinkel beginnen.
+Daartoe hebben we nodig:
+1. boeken
+2. een database voor de voorraadbeheer, het klantenbestand en de administratie
+3. administratiesoftware
+4. verzending
+5. website
+6. reclame
+
+De boekwinkel gaat niet daadwerkelijk realiteit worden.
+Haha dat zou wat zijn
